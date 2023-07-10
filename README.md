@@ -6,4 +6,5 @@
 for each hour of the day. This webpage is powered by jquery. You can see how it in action below!
 
 
-<video src="Work%20Day%20Scheduler%20-%20Google%20Chrome%202023-07-10%2014-22-09.mp4" controls title="work-day-scheduler"></video>
+https://github.com/Rcurcurato/work-day-scheduler/assets/133296185/380b46f5-72d6-4436-ad78-fb5f43e87d91
+
